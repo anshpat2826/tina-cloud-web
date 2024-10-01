@@ -6,11 +6,7 @@ blocks:
       ## **Editors**
 
 
-      **Click this box to start editing it**. You will see the matching field
-      appear in the left sidebar for you to make changes. The edits will show in
-      this live preview. In that left panel, you can also navigate around the
-      page to change what you are editing (or just click a component here in the
-      preview, like you did before).
+      **Sketchplat**
 
 
       **Clicking 'Save' won't do anything in this demo** - but on your site it
