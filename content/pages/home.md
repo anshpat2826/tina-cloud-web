@@ -1,7 +1,7 @@
 ---
 title: GridIron
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: Welcome Gridiron
     text: >
       ## **Editors**
 
