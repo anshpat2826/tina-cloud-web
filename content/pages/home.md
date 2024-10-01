@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: GridIron
 blocks:
   - headline: Welcome to the Tina Starter
     text: >
